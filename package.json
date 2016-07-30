@@ -1,0 +1,23 @@
+{
+  "name": "pdf2ofx",
+  "version": "0.0.1",
+  "description": "library to convert bank statements in pdf to OFX format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacharrin/pdf2ofx.git"
+  },
+  "keywords": [
+    "pdf",
+    "ofx"
+  ],
+  "author": "Alexis Cervantes <acervantes@gestii.com> (https://github.com/pacharrin)",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/pacharrin/pdf2ofx/issues"
+  },
+  "homepage": "https://github.com/pacharrin/pdf2ofx#readme"
+}
